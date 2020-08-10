@@ -30,7 +30,7 @@ Project Workflow:
 -----------------
 Scraping Data:
 
-We scrape the data from `Goodreads API <https://www.goodreads.com/api/index#review.show>` which gets the books in a member shelf.
+We scrape the data from `Goodreads API <https://www.goodreads.com/api/index#review.show>`__. which gets the books in a member shelf.
 
 Recommender System:
 
