@@ -1,5 +1,5 @@
-# Books-recommender-system-from-goodreads-API
-
+Books-recommender-system-from-goodreads-API
+===========================================
 
 Project Title
 -------------
@@ -14,9 +14,9 @@ Date created
 
 Creator
 -------
-- `Omar Mohamed <https://github.com/omer8>`
--  `Mahmoud Hegab <https://github.com/HEGAB7>`
--  `Seif Mohamed <https://github.com/Seif-Mohamed1>`
+- `Omar Mohamed <https://github.com/omer8>`__.
+-  `Mahmoud Hegab <https://github.com/HEGAB7>`__.
+-  `Seif Mohamed <https://github.com/Seif-Mohamed1>`__.
 
 This data set contains the following features:
 ----------------------------------------------
