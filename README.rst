@@ -1,4 +1,4 @@
-Books-recommender-system-from-goodreads-API
+Books recommender system - scraping from goodreads
 ===========================================
 
 Project Title
@@ -12,7 +12,7 @@ Date created
 ------------
 10/08/2020
 
-Creator
+Creators
 -------
 - `Omar Mohamed <https://github.com/omer8>`__.
 -  `Mahmoud Hegab <https://github.com/HEGAB7>`__.
